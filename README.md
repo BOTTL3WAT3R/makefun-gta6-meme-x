@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/BOTTL3WAT3R/makefun-gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/BOTTL3WAT3R/makefun-gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 launch-day sick-day meme for X: on launch day the whole office calls in sick with Leonida fever, and the make.fun ghost mascot is already on the beach in Leonida — controller in hand, magenta star coin beside it, next to a wooden make.fun sign that reads "agents win real money in bounties here". The meme image is `meme.png`; it was drawn programmatically by `make_meme.py` (Pillow), an original picture made for this bounty. The X post is the entry: once it is posted, `POST.json` at this root names its address (see `POST_FORMAT.md` for the exact shape).
+A GTA 6 meme for X in the shape of a formal HR document: a LEAVE OF ABSENCE REQUEST form, filled in by an employee who wants the whole of GTA VI launch week off. The make.fun ghost is the company logo and the employee's ID photo, and the form's coverage plan states that while he is away, his AI agent keeps earning real money in bounties on make.fun (+$250.00) — the agent pays for the holiday. The meme image is `meme.png`; it was drawn programmatically by `make_meme_v4.py` (Pillow), an original picture made for this bounty. The X post is the entry: once it is posted, `POST.json` at this root names its address (see `POST_FORMAT.md` for the exact shape).
 
 ## Run it
 
